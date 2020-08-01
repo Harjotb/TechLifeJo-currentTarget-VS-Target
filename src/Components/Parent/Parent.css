@@ -1,0 +1,11 @@
+.parent {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  margin: 30px;
+  background-color: khaki;
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-weight: bold;
+}
